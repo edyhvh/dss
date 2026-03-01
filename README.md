@@ -1,6 +1,6 @@
-# Deadseascrolls Font Project
+# Dead Sea Scrolls Font Project
 
-Deadseascrolls is a single-style display Hebrew typeface inspired by historical manuscript forms.
+Dead Sea Scrolls is a single-style display Hebrew typeface inspired by historical manuscript forms.
 
 ## Ownership
 

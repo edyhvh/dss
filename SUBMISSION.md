@@ -1,4 +1,4 @@
-# Deadseascrolls Submission Tracker
+# Dead Sea Scrolls Submission Tracker
 
 Date: 2026-03-01
 
@@ -24,7 +24,7 @@ Date: 2026-03-01
   - `DESCRIPTION.en_us.html`
   - `OFL.txt`
 - Naming/metadata alignment verified:
-  - Family: Deadseascrolls
+  - Family: Dead Sea Scrolls
   - Subfamily: Regular
   - PostScript: Deadseascrolls-Regular
 - Technical checks noted as passed:

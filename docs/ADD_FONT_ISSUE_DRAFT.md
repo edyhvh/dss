@@ -4,11 +4,16 @@ https://github.com/edyhvh/dss
 
 **Super short description of the Font Family:**
 
-Deadseascrolls is a single-style display Hebrew typeface inspired by historical manuscript forms, focused on Hebrew support without niqqud.
+Dead Sea Scrolls is a single-style display Hebrew typeface inspired by historical manuscript forms, focused on Hebrew support without niqqud.
+
+**Requested family name shown to users:**
+
+- Dead Sea Scrolls
 
 **Copyright ownership:**
 
 - Co-owners/co-authors: Adi Greenberg and Jhonny Vergara
+- Adi Greenberg has licensed their contributions for this project under OFL for submission.
 
 **Requirements:**
 
@@ -16,7 +21,7 @@ By opening this issue, I confirm the project meets the following requirements:
 
 - [ ] The entire font project is available in a Github repository (repo) and licensed under the OFL
 - [ ] The source files are available in the repo
-- [ ] I am the sole copyright author of the entire project, or, all other copyright authors have licensed their work to me under the OFL
+- [x] I am the sole copyright author of the entire project, or, all other copyright authors have licensed their work to me under the OFL
 - [ ] There are no "Reserved Font Names" in the OFL license information, or in the project documentation of any known upstream projects. If there are RFNs, they are not used in whole or in part in this family name, or, I want to discuss how Google can work with my use of them.
 - [ ] The family name is unique according to namecheck.fontdata.com
 - [x] The name of the font family expected to appear on app menus is clearly communicated and definitive.
@@ -30,6 +35,7 @@ By opening this issue, I confirm the project meets the following requirements:
 - Primary script: Hebrew (`Hebr`)
 - Current release intentionally excludes niqqud.
 - File currently prepared: `Deadseascrolls-Regular.ttf`
+- Note: this current binary still uses `Deadseascrolls` internal naming and will be renamed to match `Dead Sea Scrolls` before final GF PR.
 
 **Current QA note:**
 
@@ -45,4 +51,4 @@ By opening this issue, I confirm the project meets the following requirements:
 
 **Image:**
 
-Attach one screenshot specimen (you can use `legacy/Deadseascrolls.jpg`).
+Attach one screenshot specimen (you can use `Deadseascrolls.jpg`).
