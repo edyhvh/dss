@@ -45,14 +45,19 @@ Date: 2026-03-01
 ## Directory layout (current)
 
 - Root (`~/dss`) keeps primary submission files.
+- `~/dss/sources` keeps editable source files.
+- `~/dss/fonts/ttf` keeps built TTF binaries.
+- `~/dss/fonts/webfonts` keeps WOFF/WOFF2 outputs.
+- `~/dss/tools` keeps utility scripts.
 - `~/dss/docs` stores planning/checklist/report markdown docs.
+- `~/dss/docs/specimens` stores specimen images.
 - `~/dss/legacy` stores files not needed for immediate submission.
 
 ## Immediate next steps
 
 1. Open Google Fonts **Add Font** issue using `docs/ADD_FONT_ISSUE_DRAFT.md`.
 2. State clearly: Hebrew-first release, no niqqud by design, current Latin Core gap.
-3. Attach specimen image (currently in `legacy/Deadseascrolls.jpg`).
+3. Attach specimen image (currently in `docs/specimens/Deadseascrolls.jpg`).
 4. Ask reviewers whether onboarding can proceed now or requires full Latin Core first.
 
 ## After reviewer feedback

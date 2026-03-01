@@ -14,7 +14,12 @@ Dead Sea Scrolls is a single-style display Hebrew typeface inspired by historica
   - `DESCRIPTION.en_us.html`
   - `OFL.txt`
   - `SUBMISSION.md`
+- `sources/` contains editable design sources (for example `sources/Deadseascrolls.ai`).
+- `fonts/ttf/` contains built TTF binaries for release.
+- `fonts/webfonts/` contains webfont exports (`.woff`, `.woff2`).
+- `tools/` contains project scripts.
 - `docs/` contains process notes, checklist, and issue draft.
+- `docs/specimens/` contains specimen images.
 - `legacy/` contains non-immediate-submission and archival files.
 
 ## License

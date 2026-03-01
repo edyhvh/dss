@@ -19,16 +19,16 @@ Dead Sea Scrolls is a single-style display Hebrew typeface inspired by historica
 
 By opening this issue, I confirm the project meets the following requirements:
 
-- [ ] The entire font project is available in a Github repository (repo) and licensed under the OFL
-- [ ] The source files are available in the repo
+- [x] The entire font project is available in a Github repository (repo) and licensed under the OFL
+- [x] The source files are available in the repo
 - [x] I am the sole copyright author of the entire project, or, all other copyright authors have licensed their work to me under the OFL
-- [ ] There are no "Reserved Font Names" in the OFL license information, or in the project documentation of any known upstream projects. If there are RFNs, they are not used in whole or in part in this family name, or, I want to discuss how Google can work with my use of them.
-- [ ] The family name is unique according to namecheck.fontdata.com
+- [x] There are no "Reserved Font Names" in the OFL license information, or in the project documentation of any known upstream projects. If there are RFNs, they are not used in whole or in part in this family name, or, I want to discuss how Google can work with my use of them.
+- [x] The family name is unique according to namecheck.fontdata.com
 - [x] The name of the font family expected to appear on app menus is clearly communicated and definitive.
 - [ ] The font supports at least the Google Fonts Latin Core glyphset
-- [ ] The repo has the Google Fonts preferred upstream repo structure
-- [ ] I have read, agree with, and comply with, the full Google Fonts contributing requirements
-- [ ] I will maintain the repository and participate in the onboarding process
+- [x] The repo has the Google Fonts preferred upstream repo structure
+- [x] I have read, agree with, and comply with, the full Google Fonts contributing requirements
+- [x] I will maintain the repository and participate in the onboarding process
 
 **Language/script scope requested:**
 
@@ -51,4 +51,4 @@ By opening this issue, I confirm the project meets the following requirements:
 
 **Image:**
 
-Attach one screenshot specimen (you can use `Deadseascrolls.jpg`).
+Attach one screenshot specimen (you can use `docs/specimens/Deadseascrolls.jpg`).
